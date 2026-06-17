@@ -5,7 +5,7 @@ import Error from "./Error";
 import RepoList from "./RepoList";
 import SearchHistory from "./SearchHistory";
 import FavoritesList from "./FavoritesList";
-import GitHubAnalytics from "./GitHubAnalytics ";
+import GitHubAnalytics from "./GitHubAnalytics";
 import LanguageStates from "./LanguageStates";
 
 function Hero({ darkMode, favorites, handleRemoveFavorite, handleFavorite, activeView }) {
